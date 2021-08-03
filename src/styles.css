@@ -35,6 +35,9 @@ body {
   border: none;
   color: white;
 }
+.language__drop__down > option{
+  background-color: grey;
+}
 
 .language__drop__down:focus {
   outline: none;
